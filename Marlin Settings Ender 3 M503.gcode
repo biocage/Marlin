@@ -22,7 +22,7 @@
   M145 S0 H180 B70 F255
   M145 S1 H240 B110 F0
 ; PID settings:
-  M301 P21.73 I1.54 D76.55
+;  M301 P21.73 I1.54 D76.55
 ; Z-Probe Offset (mm):
   M851 X-46.00 Y-5.00 Z-2.85
 ; Stepper driver current:
